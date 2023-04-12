@@ -1,0 +1,8 @@
+node_modules
+cypress/cucumber-json
+cypress/downloads
+cypress/screenshots
+
+#IDE
+.vscode
+.idea
